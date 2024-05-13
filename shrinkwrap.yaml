@@ -1,0 +1,12 @@
+dependencies:
+  three: 0.130.1
+packages:
+  /three/0.130.1:
+    dev: false
+    resolution:
+      integrity: sha512-OSPPKcGvFSiGkG3jFrwwC76PBV/ZSrGxpBbg28bW8s9GU8r/y2spNGtEXHEb/CVqo0Ctf5Lx2rVaxQZB6OasaA==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  three: ^0.130.1
